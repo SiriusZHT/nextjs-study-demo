@@ -1,2 +1,1 @@
-# nextjs-study-demo
-nextjs-study-demo
+## react.js+next.js+koa2
